@@ -1,0 +1,32 @@
+{
+  "id": "86c0a0ed-9a90-4331-8e3f-22ef37fa6714",
+  "name": "HIV welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "sure,Go ahead!",
+            "Would love to hear your problems",
+            "sure,!will try my best to help you with desired solutions"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539339059,
+  "fallbackIntent": false,
+  "events": []
+}

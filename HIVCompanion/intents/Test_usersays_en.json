@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9f33bcd5-aafb-4568-a1d7-de39ecb4b168",
+    "data": [
+      {
+        "text": "Which HIV tests should I prefer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539331897
+  },
+  {
+    "id": "d760d33c-d66b-4fcd-bd22-27c6146e36dd",
+    "data": [
+      {
+        "text": "What are the tests required",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539331897
+  },
+  {
+    "id": "fb95d409-61ac-4434-ab2c-5c60b54e629e",
+    "data": [
+      {
+        "text": "How to test if I am suffering from HIV or not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539331897
+  }
+]

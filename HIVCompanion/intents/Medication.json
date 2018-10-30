@@ -1,0 +1,46 @@
+{
+  "id": "be032431-950a-462e-9108-f42f8a98b68e",
+  "name": "Medication",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For medication purposes,refer our drug finder developed for you by Guprasad and Maninder- \"\"https://mani14011998.github.io/medfinder/\"\""
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "title": "drug finder",
+          "formattedText": "Pls refer our Drug finder page",
+          "buttons": [
+            {
+              "title": "Drug Finder",
+              "openUrlAction": {
+                "url": "https://mani14011998.github.io/medfinder/",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539343642,
+  "fallbackIntent": false,
+  "events": []
+}

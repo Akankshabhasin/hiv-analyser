@@ -1,0 +1,28 @@
+{
+  "id": "56a06edb-a633-4d6b-877e-167dc9737122",
+  "name": "symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fever,Headache,Upset stomach,Sore throat,Swollen glands,Rash,Aches and pains in muscles and joints,Weight loss,Diarrhea,Fever,A cough that won’t go away,Night sweats,Mouth and skin problems,Frequent infections,Serious illnesses or diseases.But it isn\u0027t necessary to be HIV + if you are facing any of these symptoms,so pls get yoursef tested first."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539328133,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "75da798e-310f-44cc-b0a8-ca8335b8a0c8",
+  "name": "Treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Talk to a dietitian to make sure your diet is balanced and gives you the calories you need.\nBuild up your muscle mass with workouts like weightlifting or resistance exercises, like pushups, planks, and squats.\nTreat infections that may cause diarrhea or loss of appetite.\nYour doctor may prescribe medicines to help with wasting syndrome, called megestrol acetate (Megace) and dronabinol (Marinol).\n\"For Finding the required medication,refer our drug finder\"-https://mani14011998.github.io/medfinder/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539337444,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1ce0048d-2eea-48ff-b1e3-89b94f766ff5",
+    "data": [
+      {
+        "text": "I have some HIV based issues",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539323846
+  },
+  {
+    "id": "19ad2802-4477-4651-8806-d3111531e3e4",
+    "data": [
+      {
+        "text": "I have some questions regarding HIv aids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539323846
+  },
+  {
+    "id": "29d5d671-9e66-49f2-96fe-aa56ede5d9c5",
+    "data": [
+      {
+        "text": "Can I ask something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539323846
+  }
+]

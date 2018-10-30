@@ -1,0 +1,28 @@
+{
+  "id": "8d1cba26-c38f-4ebd-a53b-d7920dd7b63a",
+  "name": "Risks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Unsafe Sex with an hiv +ve person\nShared Needles\nAlcohol and Recreational Drugs\nA Sexually Transmitted Disease\nDonated Blood\nYour Genes\nA mother infected with HIV can give her baby the virus before or during birth"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539334263,
+  "fallbackIntent": false,
+  "events": []
+}

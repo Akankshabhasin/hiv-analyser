@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cd161a15-9cce-4107-bfdc-242651f4d0b1",
+    "data": [
+      {
+        "text": "How to treat HIV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539337444
+  },
+  {
+    "id": "5ebca20c-48a0-4d75-8cd8-ecfa4ced0f47",
+    "data": [
+      {
+        "text": "How to cure HIV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1539337444
+  }
+]

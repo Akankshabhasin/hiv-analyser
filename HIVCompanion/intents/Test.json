@@ -1,0 +1,28 @@
+{
+  "id": "dbd5a63f-4f44-4ed0-9274-b7de6624cd7a",
+  "name": "Test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Preliminory Test is E.L.I.S.A . ( Enzyme linked Immuno sorbet Assay). and for Confirmation,do try western Blot Test.But a rapid antibody/antigen test can also give you results in 20 minutes."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539331897,
+  "fallbackIntent": false,
+  "events": []
+}

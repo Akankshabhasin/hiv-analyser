@@ -1,0 +1,28 @@
+{
+  "id": "de011326-50a1-4e52-83a6-fe66f09770fe",
+  "name": "Stages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "First Stage: Acute HIV Infection\nSecond Stage: Chronic HIV Infection\nThird Stage: AIDS"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539337100,
+  "fallbackIntent": false,
+  "events": []
+}

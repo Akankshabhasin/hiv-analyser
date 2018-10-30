@@ -1,0 +1,38 @@
+[
+  {
+    "id": "103a5e2b-3bd3-447b-905e-6c612ce96690",
+    "data": [
+      {
+        "text": "From  where to buy the  prescribed medicines  nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539337786
+  },
+  {
+    "id": "6289b1dd-e266-42ec-bfdc-1f77ead6145e",
+    "data": [
+      {
+        "text": "Pls guide me from where to buy prescribed medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539337786
+  },
+  {
+    "id": "5185708e-f26a-43d2-bec6-19e546fd8cdb",
+    "data": [
+      {
+        "text": "I am unable to find prescribed medicines nearby,Pls guide me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539337786
+  }
+]
